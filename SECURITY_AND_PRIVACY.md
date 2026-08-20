@@ -2,7 +2,7 @@
 
 ## Current release status
 
-The clean-room publication scope, repository creation, and public visibility are owner-approved. Release still depends on the exact-tree/history scans and post-publication signed-out QA recorded in the publication controls.
+The clean-room publication scope, repository creation, and public visibility are owner-approved. Exact-tree and reachable-history scans pass; final acceptance still depends on post-publication signed-out QA recorded in the publication controls.
 
 ## Data policy
 

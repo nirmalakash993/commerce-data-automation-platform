@@ -15,14 +15,14 @@ Create a credible, independently runnable clean-room reference without modifying
 7. Ran the tests and reproducible demo and recorded only observed results in `docs/VALIDATION_RESULTS.md`.
 8. Reviewed dependencies and retained a Python-standard-library-only runtime and test path.
 9. Retained no-license status because no license addition was approved.
+10. Reviewed the complete initial-commit diff and verified the exact file scope.
+11. Scanned the complete reachable Git history and confirmed that it contains only the fresh clean-room commits.
 
 ## Remaining release changes
 
-1. Complete exact working-tree and full-history scans.
-2. Display the full initial-commit diff and verify the commit scope.
-3. Create and publish only the approved GitHub repository without a license.
-4. Inspect README, links, files, metadata exposure, and confidentiality while signed out.
-5. Update publication records before enabling any profile link, metadata, topic, social-preview, or pin action.
+1. Create and publish only the approved GitHub repository without a license.
+2. Inspect README, links, files, metadata exposure, and confidentiality while signed out.
+3. Update publication records before enabling any profile link, metadata, topic, social-preview, or pin action.
 
 ## Files that must not be copied
 

@@ -22,7 +22,7 @@
 - [x] Fixture generation accepts only an output directory and deterministic seed and cannot read a production input or configuration.
 - [x] No binary image or document metadata exists in the candidate.
 - [x] Exact internal-name, identifier, email, path, URL, real-value, and secret-shape scans pass.
-- [ ] Review the complete Git history; do not rely only on the current working tree.
+- [x] The complete reachable Git history was reviewed; it contains only the fresh clean-room commits and passes the candidate scans.
 - [ ] Inspect the rendered repository while signed out.
 
 ## Release rule

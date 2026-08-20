@@ -1,6 +1,6 @@
 # Publication Checklist
 
-Current status: **READY FOR INITIAL COMMIT; PUBLIC CREATION AUTHORIZED; HISTORY AND SIGNED-OUT QA PENDING**.
+Current status: **READY FOR PUBLIC CREATION; SIGNED-OUT QA PENDING**.
 
 ## Rights and ownership
 
@@ -12,7 +12,7 @@ Current status: **READY FOR INITIAL COMMIT; PUBLIC CREATION AUTHORIZED; HISTORY 
 
 - [x] Historical credentials and files are not inputs to this fresh tree; remediation is not treated as a clean-room publication dependency.
 - [x] The exact pre-commit tree passes secret, identity, internal-name, path, URL, and real-data scans.
-- [ ] The complete Git history passes the same scans.
+- [x] The complete reachable Git history contains only the clean-room commits and passes the same scans.
 - [x] No image or generated output is committed; the only asset is newly written Mermaid text.
 
 ## Technical proof
