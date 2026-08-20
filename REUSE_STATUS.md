@@ -1,4 +1,4 @@
-# License Decision
+# Reuse Status
 
 ## Current decision
 
