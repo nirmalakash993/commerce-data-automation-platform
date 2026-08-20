@@ -1,0 +1,12 @@
+python
+sql
+bigquery
+data-automation
+data-engineering
+data-warehouse
+etl
+data-quality
+analytics-engineering
+google-cloud
+workflow-automation
+synthetic-data

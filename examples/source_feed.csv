@@ -1,0 +1,5 @@
+record_id,source_name,event_date_raw,sku_code,units_raw,gross_value_minor,currency_code
+EVT-0001,SOURCE_A,2030-01-02,SKU-0001,2,1200,TST
+EVT-0002,SOURCE_A,02/01/2030,SKU-0002,1,not_available,TST
+EVT-0003,SOURCE_B,2030-01-03,SKU-0001,3,1800,TST
+EVT-0004,SOURCE_C,invalid-date,SKU-9999,1,900,TST

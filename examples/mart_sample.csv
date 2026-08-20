@@ -1,0 +1,3 @@
+business_date,source_name,sku_code,units,gross_value_minor,currency_code
+2030-01-02,SOURCE_A,SKU-0001,2,1200,TST
+2030-01-03,SOURCE_B,SKU-0001,3,1800,TST

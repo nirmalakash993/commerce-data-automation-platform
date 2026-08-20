@@ -1,0 +1,13 @@
+flowchart LR
+    A["Synthetic input fixtures"] --> B["Selection and validation"]
+    B -->|accepted| C["Text-preserving landing"]
+    B -->|refused| H["Exception review"]
+    C --> D["Cleaning and safe typing"]
+    D --> E["Canonical business grain"]
+    E --> F["Governed marts"]
+    F --> G["Thin reporting layer"]
+    C --> I["Quality history"]
+    D --> I
+    E --> I
+    F --> I
+    I --> H

@@ -1,0 +1,6 @@
+run_id,check_id,scope,verdict,observed,expected
+RUN-0001,CHECK-FRESHNESS,SOURCE_A,PASS,1-day-old,not-more-than-2-days
+RUN-0001,CHECK-NUMERIC,SOURCE_A,WARN,1-malformed-value,0-malformed-values
+RUN-0001,CHECK-DATE,SOURCE_C,FAIL,1-invalid-date,0-invalid-dates
+RUN-0001,CHECK-REFERENCE,SOURCE_C,FAIL,1-orphan-key,0-orphan-keys
+RUN-0001,CHECK-EXECUTION,SOURCE_B,ERROR,simulated-check-error,successful-check-execution

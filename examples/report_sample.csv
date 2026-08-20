@@ -1,0 +1,3 @@
+period,source_name,units,gross_value_minor,quality_state
+2030-01,SOURCE_A,2,1200,review-required
+2030-01,SOURCE_B,3,1800,blocked-by-check-error
