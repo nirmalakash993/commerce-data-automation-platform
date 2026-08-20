@@ -109,6 +109,6 @@ AI coding assistance accelerated design, implementation, debugging, tests, revie
 
 See [SECURITY_AND_PRIVACY.md](SECURITY_AND_PRIVACY.md) and [docs/DEPENDENCY_REVIEW.md](docs/DEPENDENCY_REVIEW.md).
 
-## License
+## Reuse status
 
-No `LICENSE` file is included. The repository is public for viewing but is not described as open source and does not grant reuse rights. See [LICENSE_DECISION.md](LICENSE_DECISION.md).
+No license file is included. The repository is public for viewing but is not described as open source and does not grant reuse rights. See [REUSE_STATUS.md](REUSE_STATUS.md).
